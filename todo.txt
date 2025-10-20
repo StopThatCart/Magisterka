@@ -1,0 +1,3 @@
+- Zapoznać się z pdfem
+- Zobaczyć, które z csv ma dane poprawne
+- Zrobić podstawowe odczytanie danych (le python)
