@@ -1,10 +1,11 @@
-- Zapoznać się z pdfem
-- Zobaczyć, które z csv ma dane poprawne
-- Serio zapoznać się ze zbiorami
-- Sprawdzić zasady implementacyjne do uniknięcia błędu przeciek danych (oversampling/undersampling, daj w każdym foldzie z osobna) 
-- Zrobić podstawowe odczytanie danych (le python)
-- Oversampling/Undersampling i hybrydowe do zbalansowania danych Może smote. Klucz: Zastosuj jak najwięcej metod i porównać
-- Przetestować jak działa oddzielnie i razem
+- Oversampling/Undersampling i hybrydowe do zbalansowania danych
+- Na razie zrobić testowanie na innych modelach bazowych (już nie tylko drzewo decyzyjne)
+- Wyniki dawać do excela dla analizy
+- Zbadać ten AdaBoost i dlaczego jest dobry, choć powolny
+- Inne miary jakości dobrze widziane.
+
+
+
 - Potem dać selekcję cech po tym. (np. Recursive Feature Elimination)
 
 
@@ -13,3 +14,10 @@ Implementacja potem. Na razie teorię zbierz.
 To co robiłem jako projekt na zaliczenie powtórz na zbiorze co Pani wysłała.
 
 za 2 tygodnie rektorskie są więc 10 nie ma spotkania. 
+
+
+
+
+
+
+Ale jak tak teraz myślę chyba mi się pojebało i wszystkie oversamplingi robiłem na jednym drzewie a ja już do exela wpisałem xD
