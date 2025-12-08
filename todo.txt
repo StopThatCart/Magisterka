@@ -1,23 +1,24 @@
-- Oversampling/Undersampling i hybrydowe do zbalansowania danych
+- Oversampling/Undersampling i hybrydowe do zbalansowania danych (hybrydy okazują się nieefektywne. Jakikolwiek połączenie z undersamplingiem obniża wyniki.)
 - Na razie zrobić testowanie na innych modelach bazowych (już nie tylko drzewo decyzyjne)
-- Wyniki dawać do excela dla analizy
-- Zbadać ten AdaBoost i dlaczego jest dobry, choć powolny
-- Inne miary jakości dobrze widziane.
+- Wyniki dawać do excela dla analizy  (zrobione)
+- Zbadać ten AdaBoost i dlaczego jest dobry, choć powolny (zrobione)
+- Inne miary jakości dobrze widziane. (Zrobione)
+- Zastosować metodę SVM/SMOTE do wszystkich oprócz ALL (Zrobione)
 
 
 
-- Potem dać selekcję cech po tym. (np. Recursive Feature Elimination)
+- Tabelka w excelu ze wszystkimi/najlepszymi wynikami. Model bez metod samplingu, z metodami.
+- Heatmapa (jest)
+- 
+
+2 etap:
+- Potem dać selekcję cech po tym. (np. Recursive Feature Elimination) (wybrać tak z 10% cech, step większy np. 100), Estymator SVC 
+- Generować wyniki  w excelu. Modele w pętli robić.
+
+
+- Porównać wyniki z i bez selekcji cech 
 
 
 
-Implementacja potem. Na razie teorię zbierz.
-To co robiłem jako projekt na zaliczenie powtórz na zbiorze co Pani wysłała.
 
-za 2 tygodnie rektorskie są więc 10 nie ma spotkania. 
-
-
-
-
-
-
-Ale jak tak teraz myślę chyba mi się pojebało i wszystkie oversamplingi robiłem na jednym drzewie a ja już do exela wpisałem xD
+Ale jak tak teraz myślę chyba mi się pomyliło i wszystkie oversamplingi robiłem na jednym drzewie a ja już do exela wpisałem xD
