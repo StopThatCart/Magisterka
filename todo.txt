@@ -7,16 +7,16 @@
 
 
 
-- Tabelka w excelu ze wszystkimi/najlepszymi wynikami. Model bez metod samplingu, z metodami.
+- Tabelka w excelu ze wszystkimi/najlepszymi wynikami. Model bez metod samplingu, z metodami. (done)
 - Heatmapa (jest)
 - 
 
 2 etap:
-- Potem dać selekcję cech po tym. (np. Recursive Feature Elimination) (wybrać tak z 10% cech, step większy np. 100), Estymator SVC 
-- Generować wyniki  w excelu. Modele w pętli robić.
+- Potem dać selekcję cech po tym. (np. Recursive Feature Elimination) (wybrać tak z 10% cech, step większy np. 100), Estymator SVC (Zrobione)
+- Generować wyniki  w excelu. Modele w pętli robić. (Zrobione)
 
 
-- Porównać wyniki z i bez selekcji cech 
+- Porównać wyniki z i bez selekcji cech (Zrobione)
 
 
 
